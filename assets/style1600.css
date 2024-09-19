@@ -1,0 +1,82 @@
+
+
+/*First Screen header*/
+
+.firstScreen_info{
+    padding-top: 148px;
+}
+
+p.firstScreen_title{
+    width: 630px;
+    letter-spacing: -1.3px;
+    line-height: 60px;
+}
+
+.firstScreen_contact{
+    width: 420px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.firstScreen_contact a{
+    margin-right: 50px;
+}
+
+.firstScreen_numbers{
+    margin-left: 0px;
+}
+
+/*Works*/
+
+.works_foto{
+    width: 600px;
+    height: 400px;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+/*reviews*/
+
+.reviews_array{
+    right: 50px;
+}
+/*404*/
+.mistake_img1{
+  width: 230px;
+  height: 290px;
+     right: 400px;
+   
+}
+
+.mistake_img1 img{
+  width: 100%;
+  height: 100%;
+     object-fit: contain;
+}
+.mistake_img2{
+   width: 350px;
+  height: 390px;
+
+   
+}
+
+.mistake_img2 img{
+  width: 100%;
+  height: 100%;
+     object-fit: contain;
+}
+.mistake_img3{
+    width: 800px;
+    height: 440px;
+    bottom: -200px;
+  
+   
+}
+
+.mistake_img3 img{
+  width: 100%;
+  height: 100%;
+     object-fit: contain;
+}
+

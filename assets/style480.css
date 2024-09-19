@@ -1,0 +1,315 @@
+.wrapper {
+    width: 90%;
+}
+
+.mobile_none {
+    display: none;
+}
+
+.mobile_block {
+    display: block;
+}
+
+.text28 {
+    font-size: 18px;
+}
+
+.block {
+    padding-top: 50px;
+    padding-bottom: 0px;
+}
+
+.block,
+.block_one {
+    padding-top: 50px;
+    padding-bottom: 0px;
+}
+
+    {
+    padding-top: 50px;
+    padding-bottom: 0px;
+}
+
+.title {
+    font-size: 20px;
+}
+
+.title_block {
+    margin-bottom: 40px;
+}
+
+/*Stock*/
+
+.stock {
+    background: linear-gradient(135deg, #FFDB01 0%, #807118 32.81%, rgba(40, 40, 40, 0.95) 72.92%, rgba(13, 12, 12, 0.95) 100%);
+}
+
+.stock_wrapper {
+    width: 320px;
+}
+
+p.stock_text {
+    letter-spacing: 0px;
+}
+
+/*Works*/
+
+.works_foto {
+    width: 277px;
+    height: 185px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.works_price p {
+    font-size: 12px;
+}
+
+.works_price {
+    padding: 10px 20px;
+    top: -15px;
+}
+
+.breadCrumbs {
+    width: 5px;
+    height: 5px;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.works_breadCrumbs {
+    margin-top: 50px;
+}
+
+/*review*/
+
+
+.reviews{
+    padding-bottom: 40px;
+}
+
+p.review_text{
+    font-size: 16px;
+}
+
+p.review_name,
+p.review_work{
+    font-size: 20px;
+}
+
+.review_foto{
+    width: 80px;
+    height: 80px;
+    margin-bottom: 20px;
+}
+
+
+.reviews_array{
+grid-column-gap: 30px;
+top: 37px;
+}
+/*First Screen header*/
+
+.firstScreen {
+    background-image: url(img/firstScreen_bg_mobile.png);
+}
+
+p.firstScreen_title {
+    font-size: 26px;
+    line-height: 33px;
+    margin-bottom: 40px;
+}
+
+.firstScreen_info {
+    padding-top: 69px;
+}
+
+.firstScreen_contact p {
+    line-height: 23px;
+    margin-bottom: 30px;
+}
+
+.firstScreen_contact a {
+    padding: 15px 82px;
+}
+
+.firstScreen_contact a span {
+    font-size: 18px;
+}
+
+p.numbers_tablet__footer {
+    font-size: 16px;
+}
+
+.numbers_tablet {
+    min-width: 140px;
+}
+
+.tablet_num1 {
+    padding-right: 20px;
+}
+
+.tablet_num2 {
+    padding-left: 20px;
+}
+
+.phone_tablet {
+    width: 70px;
+    height: 66px;
+    padding: 8px;
+}
+
+.firstScreen_numbers__tablet {
+    padding-bottom: 150px;
+}
+
+.phone_tv {
+    bottom: 33px;
+}
+
+.firstScreen_info {
+    margin-bottom: 80px;
+}
+
+/*Advantages*/
+
+.advantages_title {
+    margin-bottom: 50px;
+}
+
+.dvantages_phone_center p {
+    font-size: 16px;
+}
+
+.advantages_content {
+    grid-template-columns: 1fr;
+    grid-row-gap: 30px;
+}
+
+
+.advantages_phone_border {
+    width: 53px;
+    height: 51px;
+    padding: 8px 9px;
+}
+
+.questions_answer {
+    padding-top: 10px;
+    padding-bottom: 0px;
+}
+
+.questions_title {
+    margin-bottom: 10px;
+}
+
+.questions_text p {
+    font-size: 16px;
+}
+
+.answer p {
+    font-size: 16px;
+}
+
+
+.contact_content {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.contact p {
+    font-size: 16px;
+}
+
+.social {
+    margin-bottom: 40px;
+}
+
+p.footer_text {
+    font-size: 20px;
+}
+
+
+#arrayTop{
+bottom: 15px;
+    left: 15px;
+ padding: 13px 17px;
+}
+
+
+/*Menu burger*/
+
+.menu_burger{
+ width: 100%;
+
+}
+
+.menu_burger a{
+   font-size: 26px;
+margin-bottom: 30px;
+}
+
+a.menu_phone{
+    margin-bottom: 0px;
+    padding-top: 10px;
+}
+
+#menuEnd{
+    margin-bottom: 40px;
+}
+
+
+.phone:hover {
+    width: 84px;
+    height: 80px;
+    margin-bottom: -7px;
+    margin-left: -7px;
+}
+
+.advantages_phone_border:hover {
+    width: 84px;
+    height: 80px;
+}
+
+/*404*/
+
+p.mistake_title{
+    font-size: 64px;
+}
+
+p.mistake_subtitle{
+    font-size: 20px;
+    width: 230px;
+}
+
+.mistake_text{
+    font-size: 16px;
+    width: 282px;
+}
+
+
+a.mistake_border{
+width: 106px;
+    height: 100px;
+padding: 16px 17px;
+    margin-left: 0px;
+}
+
+
+.mistake_img1{
+  width: 150px;
+  height: 200px;
+     right: 50px;
+}
+.mistake_img2{
+   width: 250px;
+  height: 190px;
+    right: 80px;
+     top: 330px;  
+
+   
+}
+.mistake_img3{
+    width: 391px;
+    height: 166px;
+    bottom: 0px;
+}

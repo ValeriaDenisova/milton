@@ -1,0 +1,29 @@
+.wrapper{
+    width: 90%;
+}
+
+
+/*First Screen header*/
+
+
+.firstScreen_contact a{
+    padding: 15px 70px;
+}
+
+.tablet_num1{
+    padding-right: 5px;
+}
+.tablet_num2{
+    padding-left: 5px;
+}
+
+/*404*/
+
+.mistake_img1{
+right: 0px;
+}
+.mistake_img2{
+right: 0px
+
+   
+}

@@ -1,0 +1,78 @@
+.wrapper{
+    width: 97%;
+}
+
+.tg{
+    display: none;
+}
+/*Stock*/
+
+.stock_wrapper{
+ width: 510px;
+}
+
+p.stock_text{
+    margin: 0px 5px;
+    letter-spacing: -0.3px;
+}
+
+p.stock_name{
+    padding: 1px;
+}
+
+
+
+/*First Screen header*/
+
+.firstScreen {
+    background-image: url(img/firstScreen_bg_tv.png);
+}
+
+.phone_tablet{
+    margin-top: 100px;
+}
+
+.firstScreen_numbers__tablet{
+    align-items: flex-start;
+}
+
+.firstScreen_info {
+ margin-bottom: 150px;
+}
+
+.numbers_tablet{
+    min-width: 170px;
+}
+
+.phone_tablet{
+    flex-shrink: 0;
+}
+.phone_tv{
+   position: absolute;
+    bottom: 70px;
+    right: 0px;
+}
+.firstScreen_numbers__tablet{
+    padding-bottom: 320px;
+}
+.firstScreen_header{
+    position: relative;
+}
+.phone_tv{
+    display: block;
+}
+
+/*404*/
+
+.mistake_img1{
+    top: 100px;
+    right: 200px;
+}
+
+.mistake_img2{
+    top: 270px;  
+}
+
+.mistake_img3{
+ bottom: -300px;
+}

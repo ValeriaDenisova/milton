@@ -1,0 +1,240 @@
+.wrapper {
+    width: 94%;
+}
+
+.text20 {
+    font-size: 12px;
+}
+
+.tablet_block{
+    display: block;
+}
+
+.tablet_none{
+    display: none;
+}
+.block_one {
+    padding-top: 80px;
+    padding-bottom: 20px;
+}
+.block {
+    padding-top: 80px;
+}
+.title_block{
+    margin-bottom: 50px;
+}
+
+
+/*Stock*/
+.stock {
+    height: 50px;
+}
+
+.stock_wrapper {
+    width: 520px;
+}
+
+p.stock_text {
+    line-height: 15px;
+    margin: 0px 10px;
+}
+
+/*First Screen header*/
+
+.firstScreen {
+    background-image: url(img/firstScreen_bg_tablet.png);
+}
+
+.firstScreen_header{
+    min-height: calc(100vh - 100px);
+}
+
+.firstScreen_info {
+    padding-top: 40px;
+    display: block;
+    margin-bottom: 8%;
+}
+
+p.firstScreen_title {
+    width: 100%;
+    margin-bottom: 100px;
+}
+
+.firstScreen_contact{
+    width: 100%;
+     display: block;
+}
+
+.firstScreen_contact a svg{
+    display: none;
+}
+
+.firstScreen_contact a{
+    display: inline-block;
+    padding: 30px 90px;
+    background: rgba(255, 255, 255, 0.9);
+    margin: 0px;
+}
+
+.firstScreen_contact a:hover{
+    background-color: #282828;
+    border: 1px solid #ffffff;
+    padding: 29px 89px;
+}
+
+.firstScreen_contact a:hover span{
+    color: #ffffff;
+}
+.firstScreen_contact a span{
+    font-size: 28px;
+    color: #0D0C0C;
+}
+.firstScreen_contact p{
+margin-bottom: 50px;
+}
+
+.firstScreen_numbers__tablet{
+    display: flex;
+    color: white;
+    align-items: center;
+}
+
+p.numbers_tablet__footer{
+    font-size: 20px;
+}
+.tablet_num1{
+    padding-right: 40px;
+    border-right: 1px solid #fff;
+}
+.tablet_num2{
+    padding-left: 40px;
+    margin-right: 50px;
+}
+.tablet_num2 span{
+    position: relative;
+    top: -7px;
+}
+
+.tablet_num2 svg{
+    margin-right: 10px;
+}
+.tablet_num1 svg{
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.tablet_num1 .numbers_tablet__header{
+    margin-bottom: 10px;
+}
+.tablet_num2 .numbers_tablet__header{
+    margin-bottom: 3px;
+}
+
+.phone_tablet{
+    position: relative;
+    bottom: 0px;
+}
+.phone_center p{
+    font-size: 20px;
+}
+.phone_tablet .phone_center{
+    background: rgba(252, 252, 252, 0.2);
+}
+
+/*Advantages*/
+
+.advantages_title {
+    margin-bottom: 50px;
+}
+
+p.advantages_text{
+    font-size: 20px;
+}
+
+.advantages_content {
+    grid-template-columns: 1fr 1fr;
+    grid-row-gap: 20px;
+    grid-column-gap: 60px;
+    margin-bottom: 0px;
+}
+
+.advantages_phone_center p{
+    font-size: 20px;
+}
+.questions_text p{
+    font-size: 20px;
+}
+
+.answer p{
+    font-size: 20px;
+}
+
+/*Footer*/
+.footer {
+    display: block;
+}
+
+.footer_contact {
+    width: 100%;
+}
+
+.footer_map {
+    width: 100%;
+}
+
+.contact_content {
+    padding-top: 75px;
+    padding-bottom: 75px;
+}
+
+.contact p{
+    font-size: 20px;
+}
+/*reviews*/
+
+.reviews{
+    padding-bottom: 80px;
+}
+.reviews_content__tablet{
+    position: relative;
+}
+
+p.review_text{
+    font-size: 20px;
+}
+
+.menu p.logo{
+    font-size: 16px;
+    margin-bottom: 0px;
+}
+
+/*404*/
+
+p.mistake_subtitle{
+ width: 430px;
+}
+
+a.mistake_border{
+    margin-left: 190px;
+}
+
+.mistake_img1{
+  width: 150px;
+  height: 210px;
+     top: 200px;
+       right: 300px;
+}
+
+.mistake_img2{
+   width: 350px;
+  height: 300px;
+      top: 150px;
+   
+}
+
+.mistake_img3{
+     width: 600px;
+    height: 300px;
+    bottom: -150px;
+}
+
